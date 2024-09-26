@@ -1,11 +1,12 @@
 # Digital Artefact Extraction Tool for Discord Application
-Discord Extraction Tool
+Up-to-date Discord Cache Extraction Tool
 
-Developed as part of my B.Sc. (Hons.) Dissertation entitled "Forensic acquisition and analysis of digital artefacts from Discord application"
-
-This tool automates the extraction of digital artefacts and data that can be found in Discord local files. 
-
-The scripts were developed using only standard libraries and tested with Python3 only.
+Original description:
+> Developed as part of my B.Sc. (Hons.) Dissertation entitled "Forensic acquisition and analysis of digital artefacts from Discord application"
+> 
+> This tool automates the extraction of digital artefacts and data that can be found in Discord local files. 
+> 
+> The scripts were developed using only standard libraries and tested with Python3 only.
 
 To use the tool simply run the following command: python3 discfor.py
 
